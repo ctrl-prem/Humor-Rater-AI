@@ -1,0 +1,6 @@
+# backend
+server/.env
+server/node_modules
+
+# frontend
+ai-chat/node_modules
