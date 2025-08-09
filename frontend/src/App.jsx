@@ -3,7 +3,8 @@ import axios from "axios";
 import Chat from "./components/Chat";
 
 // Define the backend server URL
-const API_URL = "http://localhost:5000/api/chat";
+// const API_URL = "http://localhost:5000/api/chat";
+const API_URL = "https://humor-rater-ai.onrender.com/api/chat";
 
 export default function App() {
   // State for messages, starting with a greeting from the AI
